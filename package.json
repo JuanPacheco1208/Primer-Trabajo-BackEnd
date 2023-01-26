@@ -1,0 +1,29 @@
+{
+  "name": "back-end2",
+  "version": "1.0.0",
+  "description": "Randomizador de números 10k",
+  "main": "01-actividad-en-clase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPacheco1208/Primer-Trabajo-BackEnd.git"
+  },
+  "keywords": [
+    "random",
+    "numbers",
+    "modulo",
+    "npm",
+    "javascript"
+  ],
+  "author": "Juan Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanPacheco1208/Primer-Trabajo-BackEnd/issues"
+  },
+  "homepage": "https://github.com/JuanPacheco1208/Primer-Trabajo-BackEnd#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
